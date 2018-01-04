@@ -17,8 +17,7 @@ Run "npm install" in the EFundamentals directory. This will install all modules 
 To run tests: Run "npm test" in the specs directory 
 
 ### To start webapp
-Run "npm start" in the EFundamentals directory
-View at: http://localhost:3000/
+Run "npm start" in the EFundamentals directory the view at: http://localhost:3000/
 
 #### Further Info
 I encountered some complications during this exercise. I would like the opportunity to discuss these with you and explain my code. Thank you.
