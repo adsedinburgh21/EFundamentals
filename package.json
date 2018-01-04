@@ -1,0 +1,19 @@
+{
+  "name": "dev_coding_challenge",
+  "version": "1.0.0",
+  "description": "find_distance_between_two_strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha specs",
+    "start": "node server.js"
+  },
+  "author": "Adam Reid",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
